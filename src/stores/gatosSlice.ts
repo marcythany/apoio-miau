@@ -42,7 +42,7 @@ const initialState: GatoState = {
 			castrado: "Sim",
 			tamanho: "Médio",
 			fotos: [
-				"https://via.placeholder.com/600x400",
+				"https://i.imgur.com/xFLp5IN.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2021-11-15"),
@@ -56,7 +56,7 @@ const initialState: GatoState = {
 			castrado: "Sim",
 			tamanho: "Pequeno",
 			fotos: [
-				"https://via.placeholder.com/600x400",
+				"https://i.imgur.com/pbV6TCm.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2022-01-10"),
