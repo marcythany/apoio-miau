@@ -287,14 +287,14 @@ const initialState: GatoState = {
 		},
 		{
 			id: 20,
-			nome: "",
+			nome: "Simba",
 			genitalia: "Macho",
 			cor: "Malhado Frajola",
 			idade: "4 meses",
 			castrado: "Não",
 			tamanho: "Pequeno",
 			fotos: [
-				"https://i.imgur.com/VOltkD8.png",
+				"https://i.imgur.com/wzShZac.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2023-01-13"),
@@ -339,7 +339,7 @@ const initialState: GatoState = {
 				"https://i.imgur.com/nAFCMrG.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
-			dataNascimento: new Date("2023-01-13"),
+			dataNascimento: new Date("2022-01-13"),
 		},
 	],
 };
