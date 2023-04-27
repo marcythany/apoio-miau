@@ -28,7 +28,7 @@ const initialState: GatoState = {
 			castrado: "Não",
 			tamanho: "Pequeno",
 			fotos: [
-				"https://via.placeholder.com/600x400",
+				"https://i.imgur.com/KbEKLOM.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2021-11-15"),
@@ -70,7 +70,7 @@ const initialState: GatoState = {
 			castrado: "Não",
 			tamanho: "Médio",
 			fotos: [
-				"https://via.placeholder.com/600x400",
+				"https://i.imgur.com/L1f4io5.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2022-04-12"),
@@ -98,7 +98,7 @@ const initialState: GatoState = {
 			castrado: "Não",
 			tamanho: "Pequeno",
 			fotos: [
-				"https://via.placeholder.com/600x400",
+				"https://i.imgur.com/Gkl5TiA.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2022-04-12"),
@@ -112,14 +112,14 @@ const initialState: GatoState = {
 			castrado: "Não",
 			tamanho: "Médio",
 			fotos: [
-				"https://via.placeholder.com/600x400",
+				"https://i.imgur.com/Sr2Oqb8.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2022-04-12"),
 		},
 		{
 			id: 8,
-			nome: "Anastacia",
+			nome: "Anastasia",
 			genitalia: "Fêmea",
 			cor: "Cinza Frajolado",
 			idade: "8 meses",
@@ -224,7 +224,7 @@ const initialState: GatoState = {
 			castrado: "Não",
 			tamanho: "Pequeno",
 			fotos: [
-				"https://i.imgur.com/2QSXiEH.jpg",
+				"https://i.imgur.com/3yCd76D.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2023-01-13"),
@@ -266,7 +266,7 @@ const initialState: GatoState = {
 			castrado: "Não",
 			tamanho: "Pequeno",
 			fotos: [
-				"https://i.imgur.com/NwpkuiQ.jpg",
+				"https://i.imgur.com/Y1j2hOI.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2023-01-13"),
@@ -280,7 +280,7 @@ const initialState: GatoState = {
 			castrado: "Não",
 			tamanho: "Pequeno",
 			fotos: [
-				"https://i.imgur.com/WLIgGbn.jpg",
+				"https://i.imgur.com/FcG1QCC.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2023-01-13"),
@@ -294,7 +294,7 @@ const initialState: GatoState = {
 			castrado: "Não",
 			tamanho: "Pequeno",
 			fotos: [
-				"https://i.imgur.com/TLRX1UC.jpg",
+				"https://i.imgur.com/VOltkD8.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2023-01-13"),
@@ -329,14 +329,14 @@ const initialState: GatoState = {
 		},
 		{
 			id: 23,
-			nome: "",
-			genitalia: "Macho",
+			nome: "Bastet",
+			genitalia: "Fêmea",
 			cor: "Branco com manchas marrons",
 			idade: "4 meses",
 			castrado: "Não",
 			tamanho: "Pequeno",
 			fotos: [
-				"https://via.placeholder.com/600x400",
+				"https://i.imgur.com/nAFCMrG.png",
 				"https://via.placeholder.com/1280x720/bdf9fc/f065cd",
 			],
 			dataNascimento: new Date("2023-01-13"),
