@@ -5,7 +5,7 @@ import Head from "next/head";
 
 export default function Home() {
 	const meta = 200; // meta em reais
-	const atual = 100; // valor atual em reais
+	const atual = 0; // valor atual em reais
 
 	return (
 		<>
